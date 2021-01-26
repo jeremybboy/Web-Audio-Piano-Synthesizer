@@ -7,7 +7,7 @@ https://jeremybboy.github.io/Webaudio/
 ### If you want to download the project and launch it locally in your computer: 
 Follow my youtube tutorial https://youtu.be/f1jQVQGfL_o or : 
 - Open your terminal, go to the directory of this folder (cd ...)
-- right: "serve", it will give you an adress like "http://192.168.1.88:5000" that you can open on your browser (Chrome, Safari, etc) 
+- right: "serve", it will give you a local adress that you can open on your browser (Chrome, Safari, etc) 
 -> Enjoy ! 
 
 
