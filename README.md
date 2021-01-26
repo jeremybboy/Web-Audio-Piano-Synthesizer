@@ -1,7 +1,7 @@
 # Webaudio Project Jeremy Uzan
 
 
-# link to try it directly : 
+# Link to try it directly : 
 https://jeremybboy.github.io/Webaudio/
 
 
