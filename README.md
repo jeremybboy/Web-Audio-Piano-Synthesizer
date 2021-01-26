@@ -1,11 +1,11 @@
-# Webaudio
-Webaudio project
+# Webaudio Project Jeremy Uzan
 
 
-link to try it directly : 
+# link to try it directly : 
 https://jeremybboy.github.io/Webaudio/
 
 
+# Description
 
 This project is a simple sine Synth using Tone Js library and a spectrogram. The piano notes can be played from yout computer keyboard. The notes assigned to the keyboard follow the same organization as in Music sofware like Ableton or Fl Studio: q->C, z->C#, s->D, e->D#, etc...
 
@@ -25,6 +25,8 @@ The spectrogram I readaptated for the project comes from a tutorial made by a Ja
 ## Body
 - button to start the spectrogram 
 - Piano notes C3, C#3, ... D4
+
+
 
 I Hope you will enjoy this simple Web Audio project and feel like creating your own ! :) 
 
