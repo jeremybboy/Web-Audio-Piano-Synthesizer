@@ -4,16 +4,17 @@
 # Link to try it directly : 
 https://jeremybboy.github.io/Webaudio/
 
-### If you want to download the project and launch it locally in your computer: 
+### If you want to download the project and launch it locally on your computer: 
 Follow my youtube tutorial https://youtu.be/f1jQVQGfL_o or : 
+- Download and unzip the project
 - Open your terminal, go to the directory of this folder (cd ...)
-- right: "serve", it will give you a local adress that you can open on your browser (Chrome, Safari, etc) 
+- wright: "serve", it will give you a local adress that you can open on your browser (Chrome, Safari, etc) 
 -> Enjoy ! 
 
 
 # Description
 
-This project is a simple sine Synth using Tone Js library and a spectrogram. The piano notes can be played from yout computer keyboard. The notes assigned to the keyboard follow the same organization as in Music sofware like Ableton or Fl Studio: q->C, z->C#, s->D, e->D#, etc...
+This project is a simple sine Synth using Tone Js library and a spectrogram. The piano notes can be played from your computer keyboard. The notes assigned to the keyboard follow the same organization as in Music sofware like Ableton or Fl Studio: q->C, z->C#, s->D, e->D#, etc...
 
 To start the spectrogram, you need to first click on the webpage. 
 
