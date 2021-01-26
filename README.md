@@ -21,7 +21,8 @@ The spectrogram I readaptated for the project comes from a tutorial made by a Ja
 # Index.html
 ## Style
 - Shade Background
-- CLassic black and white piano keyboard
+- Classic black and white piano keyboard
+- canvas block for the spectrogram
 ## Body
 - button to start the spectrogram 
 - Piano notes C3, C#3, ... D4
