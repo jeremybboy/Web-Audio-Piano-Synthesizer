@@ -7,7 +7,7 @@ https://jeremybboy.github.io/Webaudio/
 
 
 
-This project is a simple sine Synth using Tone Js library and a spectrogram. The piano notes can be played from yout computer keyboard. The notes assigned to the keyboard follows the same organization as in Music sofware like Ableton or Fl Studio: q->C, z->C#, s->D, e->D#, etc...
+This project is a simple sine Synth using Tone Js library and a spectrogram. The piano notes can be played from yout computer keyboard. The notes assigned to the keyboard follow the same organization as in Music sofware like Ableton or Fl Studio: q->C, z->C#, s->D, e->D#, etc...
 
 
 To start the spectrogram, you need to click on the page. 
