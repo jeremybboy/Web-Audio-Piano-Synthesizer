@@ -2,7 +2,7 @@
 
 
 # Link to try it directly : 
-https://jeremybboy.github.io/Webaudio/
+https://jeremybboy.github.io/Web-Audio-Piano-Synthesizer/
 
 ### If you want to download the project and launch it locally on your computer: 
 Follow my youtube tutorial https://youtu.be/f1jQVQGfL_o or : 
